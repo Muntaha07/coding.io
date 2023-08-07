@@ -1,0 +1,53 @@
+@media (max-width:700px) {
+    nav{
+        height: 10vh;
+    }
+   .logo h2{
+    font-size: 8vw;
+   } 
+   nav ul{
+
+   }
+   nav ul li{
+    font-size: 26px;
+    display: none;
+   }
+   nav i{
+    display: block;
+    font-size: 7vw;
+    position: relative;
+    left: 10vw;
+   }
+   .contact{
+    flex-direction: column;
+   }
+   .left{
+    height: 65vh;
+    width: 100%;
+   }
+   .left h6{
+    font-size: 2.7vw;
+   }
+   .left h2{
+    line-height: 1;
+    font-size: 10vw;
+   }
+   .left p{
+    font-size: 3.5vw;
+   }
+   .right{
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 10px;
+    
+}
+.right img{
+    height: 100%;
+    width: 100%;
+}
+
+footer{
+    width: 100vw;
+}
+}
