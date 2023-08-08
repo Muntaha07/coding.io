@@ -70,7 +70,7 @@ nav i {
 
 nav ul li:hover {
     animation: fill 1s .5s ease-in-out;
-    background-color:#683BA4;
+    background-color: #DFD3EB;
 }
 
 @keyframes fill {
