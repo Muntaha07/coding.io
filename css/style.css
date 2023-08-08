@@ -69,8 +69,8 @@ nav i {
 }
 
 nav ul li:hover {
-    animation: fill 1s 1s ease-in-out;
-    background-color: coral;
+    animation: fill 1s .5s ease-in-out;
+    background-color:#683BA4;
 }
 
 @keyframes fill {
