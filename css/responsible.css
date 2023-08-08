@@ -3,7 +3,7 @@
         height: 10vh;
     }
    .logo h2{
-    font-size: 6vw;
+    font-size: 8vw;
    } 
    nav ul{
 
@@ -16,7 +16,7 @@
     display: block;
     font-size: 7vw;
     position: relative;
-    left: 10vw;
+    right: 16vw;
    }
    .contact{
     flex-direction: column;
